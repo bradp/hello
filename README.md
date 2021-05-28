@@ -1,9 +1,11 @@
-# unsubmittable-plugin
+# hello
 
-> A WordPress plugin that you can't submit to the WordPress.org repo.
+> A WordPress plugin that'll give you a lil wave 
 
-## It'll work in your WordPress install, no problem!
+## Why isn't this on WordPress.org?
+
+#### It'll work in your WordPress install, no problem!
 ![](./📷️/👍️.png)
 
-## But not the WordPress.org repo 😢️
+#### But not the WordPress.org repo 😢️
 ![](./📷️/⁉️.png)
